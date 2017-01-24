@@ -1,5 +1,11 @@
 # Getting Started with Opentrons API
 
+The following are some Jupyter Notebooks that aim to explain the API through interactive examples.
+
+Please note that if you are viewing these on GitHub, the pages render differently than when running in Jupyter so some things look a little weird.
+
+### Hello Opentrons
+
 [Hello Opentrons](Hello Opentrons.ipynb)
 
 ### Setup
