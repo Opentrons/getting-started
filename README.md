@@ -15,7 +15,7 @@ Please note that if you are viewing these on GitHub, the pages render differentl
 4. [Setup Robot](Setup/Setup Robot.ipynb)
 
 ### Commands
-1. [Tips](Setup/Tips.ipynb)
-2. [Tips Iterating](Setup/Tips Iterating.ipynb)
-3. [Liquid Control](Setup/Liquid Control.ipynb)
-4. [Moving](Setup/Moving.ipynb)
+1. [Tips](Commands/Tips.ipynb)
+2. [Tips Iterating](Commands/Tips Iterating.ipynb)
+3. [Liquid Control](Commands/Liquid Control.ipynb)
+4. [Moving](Commands/Moving.ipynb)
