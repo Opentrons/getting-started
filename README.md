@@ -1,5 +1,7 @@
 # Getting Started with Opentrons API
 
+[Hello Opentrons](Hello Opentrons.ipynb)
+
 ### Setup
 1. [Jupyter and API](Setup/Jupyter and API.ipynb)
 2. [Setup Containers](Setup/Setup Containers.ipynb)
