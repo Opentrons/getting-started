@@ -1,0 +1,99 @@
+.DS_Store
+
+.python-version
+
+containers/
+calibrations/
+smoothie/
+logs/
+*/containers/
+*/calibrations/
+*/smoothie/
+*/logs/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+#!build/
+#build/*
+#!build/html/
+#build/html/*
+#!build/html/_static/
+
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+pyinstaller/build
+pyinstaller/dist
+
+# Crossbar
+#  Usually these files are written by the Crossbar server
+*.priv
+*.pub
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# Sphinx documentation
+docs/_build/
+docs/build/
+
+
+# PyBuilder
+target/
+.idea/
+.setup_litter
+
+# Testing
+sample_protocol.py
+
+# Local Calibration Data
+calibrations/
+smoothie/
+*/smoothie
+*/calibrations
+
+# SDK logs
+*.log
+*.log.*
