@@ -2,7 +2,10 @@
 
 The following are some Jupyter Notebooks that aim to explain the API through interactive examples.
 
+[quote]
+#### Notice
 Please note that if you are viewing these on GitHub, the pages render differently than when running in Jupyter so some things look a little weird.
+[/quote]
 
 ### Setup
 1. [Jupyter and API](Setup/Jupyter and API.ipynb)
