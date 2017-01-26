@@ -33,7 +33,7 @@ pipette.dispense(100, plate['A2'])
 pipette.drop_tip(tiprack['A1'])
 ```
 
-##### Human Readable
+### Human Readable
 
 The design goal of the Opentrons API is to make code readable and easy to understand. If we were to read the above code example as if it were in plain English, it would look like the following:
 
