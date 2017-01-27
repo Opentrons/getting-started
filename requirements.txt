@@ -1,1 +1,1 @@
-opentrons==2.2.0
+opentrons==^2.2.0
