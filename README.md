@@ -1,8 +1,10 @@
 # Getting Started with Opentrons API
 
-The following are some Jupyter Notebooks that aim to explain the API through interactive examples.
+The following are some Jupyter Notebooks that aim to explain the API through interactive examples. You can start using Jupyter notebooks by first [installing the Anaconda-Navigator](https://www.continuum.io/downloads), running the application, then selecting the `Launch` button under "Jupyter Notebook".
 
 > Please note that if you are viewing these on GitHub, the pages render differently than when running in Jupyter so some things look a little weird.
+
+# Tutorials
 
 ### Setup
 1. [Jupyter and API](Setup/Jupyter and API.ipynb)
