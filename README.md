@@ -14,9 +14,9 @@ The following are some Jupyter Notebooks that aim to explain the API through int
 
 ### Setup
 1. [Jupyter and API](Setup/Jupyter and API.ipynb)
-2. [Containers](Setup/Setup Containers.ipynb)
-3. [Pipettes](Setup/Setup Instruments.ipynb)
-4. [Robot](Setup/Setup Robot.ipynb)
+2. [Containers](Setup/Containers.ipynb)
+3. [Pipettes](Setup/Pipettes.ipynb)
+4. [Robot](Setup/Robot.ipynb)
 
 ### Commands
 1. [Tips](Commands/Tips.ipynb)
