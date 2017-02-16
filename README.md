@@ -13,13 +13,12 @@ The following are some Jupyter Notebooks that aim to explain the API through int
 ### Setup
 1. [Jupyter and API](setup/Jupyter and API.ipynb)
 2. [Containers](setup/Containers.ipynb)
-2. [Custom Containers](setup/Custom Containers.ipynb)
 3. [Pipettes](setup/Pipettes.ipynb)
 4. [Robot](setup/Robot.ipynb)
 
 ### Commands
-1. [Accessing Wells](commands/Access Individual Wells.ipynb)
-2. [Accessing Series of Wells](commands/Access Series of Wells.ipynb)
+1. [Accessing Wells](commands/Access Wells.ipynb)
+2. [Accessing Multiple Wells](commands/Accessing Multiple Wells.ipynb)
 4. [Tips](commands/Tips.ipynb)
 5. [Tips Iterating](commands/Tips Iterating.ipynb)
 6. [Liquid Control](commands/Liquid Control.ipynb)
