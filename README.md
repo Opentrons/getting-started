@@ -17,7 +17,7 @@ The following are some Jupyter Notebooks that aim to explain the API through int
 4. [Robot](setup/Robot.ipynb)
 
 ### Commands
-1. [Accessing Wells](commands/Access Wells.ipynb)
+1. [Accessing Wells](commands/Accessing Wells.ipynb)
 2. [Accessing Multiple Wells](commands/Accessing Multiple Wells.ipynb)
 4. [Tips](commands/Tips.ipynb)
 5. [Tips Iterating](commands/Tips Iterating.ipynb)
