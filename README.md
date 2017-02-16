@@ -26,12 +26,12 @@ The following are some Jupyter Notebooks that aim to explain the API through int
 
 ### Macro Commands
 1. [Transfer](macro_commands/Transfer.ipynb)
-2. [Distribute](macro_commands/Distribute.ipynb)
-3. [Consolidate](macro_commands/Consolidate.ipynb)
+2. Distribute
+3. Consolidate
 
 ### Examples
 1. [Hello Opentrons](examples/Hello Opentrons.ipynb)
-2. [Distribute to Plate](examples/Distribute to Plate.ipynb)
-3. [Consolidate Plate to Tube](examples/Consolidate Plate to Tube.ipynb)
-4. [Serial Dilution](examples/Serial Dilution.ipynb)
-5. [PCR Prep](examples/PCR Prep.ipynb)
+2. Distribute to Plate
+3. Consolidate Plate to Tube
+4. Serial Dilution
+5. PCR Prep
