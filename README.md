@@ -31,7 +31,7 @@ The following are some Jupyter Notebooks that aim to explain the API through int
 
 ### Examples
 1. [Hello Opentrons](examples/Hello Opentrons.ipynb)
-2. Distribute to Plate
+2. [Distribute to Plate](examples/Dilution.ipynb)
 3. Consolidate Plate to Tube
 4. Serial Dilution
 5. PCR Prep
