@@ -26,8 +26,8 @@ The following are some Jupyter Notebooks that aim to explain the API through int
 
 ### Macro Commands
 1. [Transfer](macro_commands/Transfer.ipynb)
-2. Distribute
-3. Consolidate
+2. [Consolidate and Distribute](macro_commands/Consolidate and Distribute.ipynb)
+3. [Transfer Options](macro_commands/Transfer Options.ipynb)
 
 ### Examples
 1. [Hello Opentrons](examples/Hello Opentrons.ipynb)
