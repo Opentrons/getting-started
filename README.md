@@ -8,6 +8,10 @@ The following are some Jupyter Notebooks that aim to explain the API through int
 
 > Please note that if you are viewing these on GitHub, the pages render differently than when running in Jupyter so some things look a little weird.
 
+# Examples
+1. [Hello Opentrons](examples/Hello Opentrons.ipynb)
+2. [Dilution](examples/Dilution.ipynb)
+
 # Tutorials
 
 ### Setup
@@ -28,10 +32,3 @@ The following are some Jupyter Notebooks that aim to explain the API through int
 1. [Transfer](macro_commands/Transfer.ipynb)
 2. [Consolidate and Distribute](macro_commands/Consolidate and Distribute.ipynb)
 3. [Transfer Options](macro_commands/Transfer Options.ipynb)
-
-### Examples
-1. [Hello Opentrons](examples/Hello Opentrons.ipynb)
-2. Distribute to Plate
-3. Consolidate Plate to Tube
-4. [Dilution](examples/Dilution.ipynb)
-5. PCR Prep
