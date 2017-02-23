@@ -1,0 +1,17 @@
+div.output_area pre {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+  color: #006FFF;
+  background-color: transparent;
+  border-radius: 0;
+  padding: 3px;
+  border-radius: 3px;
+}
+
+.highlight .nn { color: #006FFF; font-weight: bold } /* Name.Namespace */
+
+.p {
+  color: #006FFF;
+}
