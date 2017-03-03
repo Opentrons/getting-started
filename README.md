@@ -14,7 +14,8 @@ The following are some Jupyter Notebooks that aim to explain the API through int
 
 # Tutorials
 
-### [Tutorial-1](tutorials/Tutorial-1/Tutorial-1.ipynb): Install Jupyter and Opentrons API
+### [Tutorial-1](tutorials/Tutorial-1/Tutorial-1.ipynb)
+Install Jupyter and Opentrons API, getting started
 - [Tutorial-2](tutorials/Tutorial-2/Tutorial-2.ipynb)
 - [Tutorial-3](tutorials/Tutorial-3/Tutorial-3.ipynb)
 - [Tutorial-4](tutorials/Tutorial-4/Tutorial-4.ipynb)
