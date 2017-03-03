@@ -14,21 +14,16 @@ The following are some Jupyter Notebooks that aim to explain the API through int
 
 # Tutorials
 
-### Setup
-1. [Jupyter and API](setup/Jupyter and API.ipynb)
-2. [Containers](setup/Containers.ipynb)
-3. [Pipettes](setup/Pipettes.ipynb)
-4. [Robot](setup/Robot.ipynb)
-
-### Commands
-1. [Accessing Wells](commands/Accessing Wells.ipynb)
-2. [Accessing Multiple Wells](commands/Accessing Multiple Wells.ipynb)
-4. [Tips](commands/Tips.ipynb)
-5. [Tips Iterating](commands/Tips Iterating.ipynb)
-6. [Liquid Control](commands/Liquid Control.ipynb)
-7. [Moving](commands/Moving.ipynb)
-
-### Macro Commands
-1. [Transfer](macro_commands/Transfer.ipynb)
-2. [Consolidate and Distribute](macro_commands/Consolidate and Distribute.ipynb)
-3. [Transfer Options](macro_commands/Transfer Options.ipynb)
+- [Tutorial-1](tutorials/Tutorial-1.ipynb): Install Jupyter and Opentrons API
+- [Tutorial-2](tutorials/Tutorial-2.ipynb)
+- [Tutorial-3](tutorials/Tutorial-3.ipynb)
+- [Tutorial-4](tutorials/Tutorial-4.ipynb)
+- [Tutorial-5](tutorials/Tutorial-5.ipynb)
+- [Tutorial-6](tutorials/Tutorial-6.ipynb)
+- [Tutorial-7](tutorials/Tutorial-7.ipynb)
+- [Tutorial-8](tutorials/Tutorial-8.ipynb)
+- [Tutorial-9](tutorials/Tutorial-9.ipynb)
+- [Tutorial-10](tutorials/Tutorial-10.ipynb)
+- [Tutorial-11](tutorials/Tutorial-11.ipynb)
+- [Tutorial-12](tutorials/Tutorial-12.ipynb)
+- [Tutorial-13](tutorials/Tutorial-13.ipynb)
