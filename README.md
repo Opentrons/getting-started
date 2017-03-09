@@ -16,19 +16,19 @@ The following are some Jupyter Notebooks that aim to explain the API through int
 
 ### Setup
 1. [Jupyter and API](setup/jupyter_and_api.ipynb)
-2. [Containers](setup/containers.ipynb)
-3. [Pipettes](setup/pipettes.ipynb)
-4. [Robot](setup/robot.ipynb)
+2. [Containers](setup/Containers.ipynb)
+3. [Pipettes](setup/Pipettes.ipynb)
+4. [Robot](setup/Robot.ipynb)
 
 ### Commands
 1. [Accessing Wells](commands/accessing_wells.ipynb)
 2. [Accessing Multiple Wells](commands/accessing_multiple_wells.ipynb)
-4. [Tips](commands/tips.ipynb)
+4. [Tips](commands/Tips.ipynb)
 5. [Tips Iterating](commands/tips_iterating.ipynb)
 6. [Liquid Control](commands/liquid_control.ipynb)
-7. [Moving](commands/moving.ipynb)
+7. [Moving](commands/Moving.ipynb)
 
 ### Macro Commands
-1. [Transfer](macro_commands/transfer.ipynb)
+1. [Transfer](macro_commands/Transfer.ipynb)
 2. [Consolidate and Distribute](macro_commands/consolidate_and_distribute.ipynb)
 3. [Transfer Options](macro_commands/transfer_options.ipynb)
