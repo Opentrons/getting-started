@@ -9,26 +9,26 @@ The following are some Jupyter Notebooks that aim to explain the API through int
 > Please note that if you are viewing these on GitHub, the pages render differently than when running in Jupyter so some things look a little weird.
 
 # Examples
-1. [Hello Opentrons](examples/Hello Opentrons.ipynb)
-2. [Dilution](examples/Dilution.ipynb)
+1. [Hello Opentrons](examples/hello_opentrons.ipynb)
+2. [Dilution](examples/dilution.ipynb)
 
 # Tutorials
 
 ### Setup
-1. [Jupyter and API](setup/Jupyter and API.ipynb)
-2. [Containers](setup/Containers.ipynb)
-3. [Pipettes](setup/Pipettes.ipynb)
-4. [Robot](setup/Robot.ipynb)
+1. [Jupyter and API](setup/jupyter_and_api.ipynb)
+2. [Containers](setup/containers.ipynb)
+3. [Pipettes](setup/pipettes.ipynb)
+4. [Robot](setup/robot.ipynb)
 
 ### Commands
-1. [Accessing Wells](commands/Accessing Wells.ipynb)
-2. [Accessing Multiple Wells](commands/Accessing Multiple Wells.ipynb)
-4. [Tips](commands/Tips.ipynb)
-5. [Tips Iterating](commands/Tips Iterating.ipynb)
-6. [Liquid Control](commands/Liquid Control.ipynb)
-7. [Moving](commands/Moving.ipynb)
+1. [Accessing Wells](commands/accessing_wells.ipynb)
+2. [Accessing Multiple Wells](commands/accessing_multiple_wells.ipynb)
+4. [Tips](commands/tips.ipynb)
+5. [Tips Iterating](commands/tips_iterating.ipynb)
+6. [Liquid Control](commands/liquid_control.ipynb)
+7. [Moving](commands/moving.ipynb)
 
 ### Macro Commands
-1. [Transfer](macro_commands/Transfer.ipynb)
-2. [Consolidate and Distribute](macro_commands/Consolidate and Distribute.ipynb)
-3. [Transfer Options](macro_commands/Transfer Options.ipynb)
+1. [Transfer](macro_commands/transfer.ipynb)
+2. [Consolidate and Distribute](macro_commands/consolidate_and_distribute.ipynb)
+3. [Transfer Options](macro_commands/transfer_options.ipynb)
