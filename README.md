@@ -1,34 +1,3 @@
-# Getting Started with Opentrons API
+# the contents of this repo have been moved
 
-The following are some Jupyter Notebooks that aim to explain the API through interactive examples. You can start using Jupyter notebooks by:
-
-1. [Installing the Anaconda-Navigator](https://www.continuum.io/downloads) **Python 3.6 version** (not 2.7)
-2. Running the application Anaconda-Navigator once installed
-3. Select the `Launch` button under "Jupyter Notebook"
-
-> Please note that if you are viewing these on GitHub, the pages render differently than when running in Jupyter so some things look a little weird.
-
-# Examples
-1. [Hello Opentrons](examples/hello_opentrons.ipynb)
-2. [Dilution](examples/dilution.ipynb)
-
-# Tutorials
-
-### Setup
-1. [Jupyter and API](setup/jupyter_and_api.ipynb)
-2. [Containers](setup/Containers.ipynb)
-3. [Pipettes](setup/Pipettes.ipynb)
-4. [Robot](setup/Robot.ipynb)
-
-### Commands
-1. [Accessing Wells](commands/accessing_wells.ipynb)
-2. [Accessing Multiple Wells](commands/accessing_multiple_wells.ipynb)
-4. [Tips](commands/Tips.ipynb)
-5. [Tips Iterating](commands/tips_iterating.ipynb)
-6. [Liquid Control](commands/liquid_control.ipynb)
-7. [Moving](commands/Moving.ipynb)
-
-### Macro Commands
-1. [Transfer](macro_commands/Transfer.ipynb)
-2. [Consolidate and Distribute](macro_commands/consolidate_and_distribute.ipynb)
-3. [Transfer Options](macro_commands/transfer_options.ipynb)
+The examples in the repository have been moved to [docs.opentrons.com](docs.opentrons.com), and there are no plans to update this repository in the future. Please visit [docs.opentrons.com](docs.opentrons.com) for up-to-date examples and guides on teh Opentrons API
